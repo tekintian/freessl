@@ -1,6 +1,6 @@
 # 免费 ssl证书，免费证书请求发放工具， letsencrypt tools for free https ssl cert tools -- netssl for free let's encrypt ssl
 
-Website: https://netssl.cn
+Website: https://netssl.cn/freessl/
 
 This is a project that allows you to get a free HTTPS certificate without
 having to install any software or having to share your private keys with anyone.
